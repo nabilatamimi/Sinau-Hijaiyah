@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app2="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tanwin_dhommah"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context="id.sch.smktelkom_mlg.project2.xirpl20810141723.sinauhijaiyah.TanwinDhommah">
+
+    <HorizontalScrollView
+        android:id="@+id/h_scrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="13dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/hijaiyah1"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun1" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah2"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun2" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah3"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun3" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah4"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun4" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah5"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun5" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah6"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun6" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah7"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun7" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah8"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun8" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah9"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun9" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah10"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun10" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah11"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun11" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah12"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun12" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah13"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun13" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah14"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun14" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah15"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun15" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah16"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun16" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah17"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun17" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah18"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun18" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah19"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun19" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah20"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun20" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah21"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun21" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah22"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun22" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah23"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun23" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah24"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun24" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah25"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun25" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah26"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun26" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah27"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun27" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah28"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun28" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah29"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun29" />
+
+            <ImageButton
+                android:id="@+id/hijaiyah30"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:background="@drawable/cun30" />
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <ImageView
+        android:id="@+id/previewHijaiyah"
+        android:layout_width="230dp"
+        android:layout_height="230dp"
+        android:layout_above="@+id/h_scrollView"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="35dp"
+        android:layout_marginEnd="168dp"
+        android:layout_marginRight="168dp"
+        app2:srcCompat="@drawable/a1" />
+
+    <ImageButton
+        android:id="@+id/menu"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignLeft="@+id/h_scrollView"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/h_scrollView"
+        android:layout_marginTop="19dp"
+        android:background="@drawable/menu" />
+
+</RelativeLayout>

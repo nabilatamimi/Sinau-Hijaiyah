@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.sch.smktelkom_mlg.project2.xirpl20810141723.sinauhijaiyah">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Activity"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".belajar"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".kuis"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".help"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".BelajarHijaiyah"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".about"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".BelajarHarakat"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".BelajarTanwin"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".HarakatFathah"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".HarakatKasrah"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".HarakatDhommah"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".TanwinFathah"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".TanwinKasrah"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".TanwinDhommah"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".kuis1"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".kuis2"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".kuis3"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".kuis4"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".kuis5"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".kuis6"
+            android:screenOrientation="landscape" />
+    </application>
+
+</manifest>
